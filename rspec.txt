@@ -1,0 +1,16 @@
+
+An example of the equality Matchers
+[32m  should show how the equality Matchers work[0m
+
+An example of the comparison Matchers
+[32m  should show how the comparison Matchers work[0m
+
+An example of the type/class Matchers
+[32m  should show how the type/class Matchers work[0m
+
+An example of the true/false/nil Matchers
+[32m  should show how the true/false/nil Matchers work[0m
+
+Finished in 0.01098 seconds (files took 0.12709 seconds to load)
+[32m4 examples, 0 failures[0m
+
